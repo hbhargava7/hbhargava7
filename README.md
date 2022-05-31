@@ -1,11 +1,11 @@
-## Hi there, I'm Hersh 👨🏽‍🔬. I'm a biomedical scientist and Ph.D. candidate currently applying synthetic and computational biology to engineering cell therapies at (UCSF)[https://limlab.ucsf.edu/people/hershbhargava.html].
+## Hi there, I'm Hersh 👨🏽‍🔬. I'm a biomedical scientist and Ph.D. candidate currently applying synthetic and computational biology to engineering cell therapies at [UCSF](https://limlab.ucsf.edu/people/hershbhargava.html).
 
-### I'm also co-founder of (Skolay)[https://skolay.com] and (H2 Micro)[https://h2micro.com]. Previously, I studied at (Berkeley)[https://berkeley.edu] where I worked on (AI in precision medicine)[] and (experimental biophysics)[].
+### I'm also co-founder of [Skolay](https://skolay.com) and [H2 Micro](https://h2micro.com). Previously, I studied at [Berkeley](https://berkeley.edu) where I worked on [AI in precision medicine](https://pubmed.ncbi.nlm.nih.gov/32139401/) and [experimental biophysics](https://pubmed.ncbi.nlm.nih.gov/32632011/).
 
-👨🏽‍💻 Website: (hershbhargava.com)[https://hershbhargava.com]
-🐤 Twitter: (https://twitter.com/HershBhargava)[https://twitter.com/HershBhargava]
-📚 (Papers on Pubmed)[https://pubmed.ncbi.nlm.nih.gov/?term=Bhargava+HK%5Bauthor%5D]
-⚗️ (Google Scholar)[https://scholar.google.com/citations?user=6i5oYzIAAAAJ&hl=en] 
+👨🏽‍💻 Website: [hershbhargava.com](https://hershbhargava.com)
+🐤 Twitter: [https://twitter.com/HershBhargava](https://twitter.com/HershBhargava)
+📚 [Papers on Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Bhargava+HK%5Bauthor%5D)
+⚗️ [Google Scholar](https://scholar.google.com/citations?user=6i5oYzIAAAAJ&hl=en)
 ✉️ Email me at: hello [at] hershbhargava.com
 
 <!--
