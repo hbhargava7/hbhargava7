@@ -4,7 +4,7 @@
 
 * 👨🏽‍💻 Website: [hershbhargava.com](https://hershbhargava.com)
 * 🐤 Twitter: [https://twitter.com/HershBhargava](https://twitter.com/HershBhargava)
-* 📚 [Papers on Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Bhargava+HK%5Bauthor%5D)
+* 📚 [Papers on Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Hersh+K+Bhargava%5BAuthor%5D&sort=date)
 * ⚗️ [Google Scholar](https://scholar.google.com/citations?user=6i5oYzIAAAAJ&hl=en)
 * ✉️ Email me at: hello [at] hershbhargava.com
 
